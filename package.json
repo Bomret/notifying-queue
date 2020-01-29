@@ -22,7 +22,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/chai": "^4.1.4",
-    "@types/mocha": "^5.2.5",
+    "@types/mocha": "^7.0.1",
     "@types/node": "~4.2.0",
     "@types/sinon": "^5.0.1",
     "@types/sinon-chai": "^3.2.0",
