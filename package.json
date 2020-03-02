@@ -21,7 +21,7 @@
   "author": "Stefan Reichel <dev@bomret.com>",
   "license": "MIT",
   "devDependencies": {
-    "@types/chai": "^4.1.4",
+    "@types/chai": "^4.2.10",
     "@types/mocha": "^5.2.5",
     "@types/node": "~4.2.0",
     "@types/sinon": "^5.0.1",
